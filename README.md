@@ -119,6 +119,7 @@ https://www.linkedin.com/in/atharv1014
 
 📧 Email  
 atharv.nasare1014@gmail.com
+
 💻 GitHub  
 https://github.com/Atharvnasare  
 
