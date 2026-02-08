@@ -66,8 +66,7 @@ Currently pursuing PG-DESD at CDAC Sunbeam, I’m strengthening my skills in C, 
 Developed an smart energy management system using dual ESP32 nodes with CAN-to-CAN communication using Can transreciever (SN65HVD230) for reliable data transfer. The system monitors temperature, voltage, and current using DS18B20, ZMPT101B, and ACS712 sensors. Implemented embedded data processing, threshold-based fault
 detection with buzzer alerts, and a distributed architecture with a data acquisition node and an IoT gateway. Enabled cloud integration via Firebase and developed a web dashboard for real-time monitoring, historical analysis, remote supervision, and energy optimization.  
 
-🔗 Repo:  
-https://github.com/DESD-Group-Project-CDAC
+🔗 Repo:  **https://github.com/DESD-Group-Project-CDAC**
 ---
 
 ### 🟩 : Crop Monitoring System In Agriculture Using IoT
@@ -76,8 +75,7 @@ https://github.com/DESD-Group-Project-CDAC
 
 The following project presents the use of the concept of Internet of Things in monitoring the crops and using it in other agricultural purposes.The proposed model consists of a microcontroller, sensors like soil moisture sensor, humidity sensor, temperature sensor, and a motor representing a water pump. The microcontroller moderates all the parameters sensed by the various sensors and sends the data to the user application. The user can take necessary action if needed, such as switching on the motor pump through the application.  
 
-🔗 Repo:  
-https://github.com/Atharvnasare/Crop-Monitoring-System-In-Agriculture-Using-IoT--Megaproject
+🔗 Repo:  **https://github.com/Atharvnasare/Crop-Monitoring-System-In-Agriculture-Using-IoT--Megaproject**
 ---
 
 ### 🟨 Smart Alcohol Detection Machine
@@ -86,9 +84,7 @@ https://github.com/Atharvnasare/Crop-Monitoring-System-In-Agriculture-Using-IoT-
 
 Alcohol Detection Machine Created a device using Arduino for alcohol detection. This device will sense the alcohol smell when get closer to persons mouth and will show how much the alcohol is consume in percentage and it will prevent it from accident 
 
-🔗 Repo:  
-[https://github.com/ovixek/CDAC_PROJECT  
-](https://github.com/Atharvnasare/Smart-Alcohol-Detection-Machine)
+🔗 Repo:**(https://github.com/Atharvnasare/Smart-Alcohol-Detection-Machine)**
 ---
 
 ## 🎯 Currently Learning
@@ -114,14 +110,11 @@ Alcohol Detection Machine Created a device using Arduino for alcohol detection. 
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn  
-https://www.linkedin.com/in/atharv1014  
+🔗 LinkedIn : https://www.linkedin.com/in/atharv1014  
 
-📧 Email  
-atharv.nasare1014@gmail.com
+📧 Email : atharv.nasare1014@gmail.com
 
-💻 GitHub  
-https://github.com/Atharvnasare  
+💻 GitHub : https://github.com/Atharvnasare  
 
 ---
 
