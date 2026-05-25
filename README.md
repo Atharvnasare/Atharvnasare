@@ -66,7 +66,7 @@ Currently pursuing PG-DESD at CDAC Sunbeam, I’m strengthening my skills in C, 
 Developed an smart energy management system using dual ESP32 nodes with CAN-to-CAN communication using Can transreciever (SN65HVD230) for reliable data transfer. The system monitors temperature, voltage, and current using DS18B20, ZMPT101B, and ACS712 sensors. Implemented embedded data processing, threshold-based fault
 detection with buzzer alerts, and a distributed architecture with a data acquisition node and an IoT gateway. Enabled cloud integration via Firebase and developed a web dashboard for real-time monitoring, historical analysis, remote supervision, and energy optimization.  
 
-🔗 Repo:  **https://github.com/DESD-Group-Project-CDAC**
+🔗 Repo:  **https://github.com/Own-Projects-Atharv/SMART-ENERGY-MANAGEMENT-SYSTEM-USING-CAN-AND-IOT**
 ---
 
 ### 🟩 : Crop Monitoring System In Agriculture Using IoT
