@@ -116,7 +116,7 @@ Alcohol Detection Machine Created a device using Arduino for alcohol detection. 
 
 💻 GitHub : https://github.com/Atharvnasare  
 
-🔗Portfolio : https://atharv-portfolio-dun.vercel.app
+🔗Portfolio : https://atharv-new-portfolio.vercel.app/
 
 ---
 
